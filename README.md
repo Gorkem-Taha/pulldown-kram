@@ -1,7 +1,7 @@
 # pulldown-kram
 
 [![CI](https://github.com/nixpulvis/pulldown-kram/actions/workflows/ci.yml/badge.svg)](https://github.com/nixpulvis/pulldown-kram/actions/workflows/ci.yml)
-[![Documentation](https://img.shields.io/badge/docs-nixpulvis.com-blue)](https://nixpulvis.com/pulldown-kram/)
+[![Documentation](https://img.shields.io/badge/docs-master-blue)](https://nixpulvis.com/pulldown-kram/)
 
 A [kramdown] parser built on [`pulldown_cmark`].
 
