@@ -1,2 +1,2 @@
-window.ALL_CRATES = ["pulldown_kram"];
-//{"start":21,"fragment_lengths":[15]}
+window.ALL_CRATES = [{"c":"pulldown_kram"}];
+//{"start":21,"fragment_lengths":[21]}
